@@ -1,2 +1,1 @@
-# cla-signers
-CLA signatures for benchhand/benchhand
+This repository stores the CLA signatures for benchhand/benchhand.
